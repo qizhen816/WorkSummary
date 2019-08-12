@@ -1,8 +1,10 @@
 # WorkSummary
  
-一些工作&学习总结
+一些工作&学习总结 
 
-我的[CSDN](https://blog.csdn.net/qizhen816)和[简书](https://www.jianshu.com/u/88fcf775e31e)
+尽量附上代码
+
+个人[CSDN](https://blog.csdn.net/qizhen816)和[简书](https://www.jianshu.com/u/88fcf775e31e)
 
 **2D人体姿态估计**
 
@@ -24,4 +26,6 @@
 **生活小窍门**
 
 [使用Python Opencv解决PPT保存的PNG不透明问题](https://blog.csdn.net/qizhen816/article/details/93624622)
+
+
 
