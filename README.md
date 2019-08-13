@@ -10,11 +10,17 @@
 
 [整理-2D姿态估计：从DeepPose到HRNet](https://www.jianshu.com/p/39fe654ed410)
 
+[2D姿态估计之前对图像的一般处理]()
+
+[PoseNet:Tensorflow的轻量级实时2D姿态估计网络](2D人体姿态估计/%5B超快%5DPosenet.md)
+
 **3D人体姿态估计**
 
 [原创-3D姿态估计：语义图卷积SematicGCN与GAN-RepNet](https://blog.csdn.net/qizhen816/article/details/96829790)
 
 [不太好用-单幅图像生成3D姿态-EpipolarPose自监督多角度3D姿态生成](3D人体姿态估计/%5B失败%5DEpipolarPose.md)
+
+[3D姿态估计之前对坐标的一般处理]()
 
 **人体姿态估计的性能比较**
 
