@@ -7,6 +7,7 @@
 **精度。。MobileNet的基础网络还能要求太高，但是简单场景还可以。**
 
 ![posenet](posenet1.gif) 
+![posenet](posenet2.gif) 
 
 原方法是Tensorflow开发的前端2D人体姿态识别接口，能在浏览器中对摄像头采集图片进行实时分析，不需要将数据传到后台，因此非常安全，模型小。
 
