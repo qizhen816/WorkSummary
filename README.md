@@ -32,6 +32,8 @@
 
 [Linux服务器重置Mysql密码，没有My.cnf文件的情况](https://blog.csdn.net/qizhen816/article/details/91047518)
 
+[服务器部署多GPU上多个TensorFlow模型，设备/图冲突]()
+
 **生活小窍门**
 
 [使用Python Opencv解决PPT保存的PNG不透明问题](https://blog.csdn.net/qizhen816/article/details/93624622)
